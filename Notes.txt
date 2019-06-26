@@ -1,0 +1,33 @@
+Problem Definition
+
+The company named Rockwell Automation Inc. is present all over the world and it has its head quarter in London.
+This company has 35000 Employees in there all branches.
+Early it was having its own cloud platform for  IT solution where they hav there poratl named Human Resource Solution.
+As there is increase in all the sector they wanted to use Amazon Cloud Service (like IASS,SASS,PASS) to store and retrive the data.
+There aim is to get the cloud services from the Amazon web Service.
+They want the cloud service to be public so that employees can retrive(access) Human Resource Solution Portal easily from anywhere in thw world.
+
+
+
+Functional Requirements:
+1)Employee:Login, Logout, Access Colud Services
+
+2)Company branches:Location, No. of Employess 
+
+3)Amazon Services
+
+
+Non-Functional Requirement:
+
+1)Maintanability:-To maintain the data, portal and system.
+
+2)Security:-To provide security to the Portal so that data is secure and no unauthorized user can access it.
+
+3)Recoverability:-To recover the data from the crash
+
+4)Performance Parameter:-Checks the Response time
+
+5)Serviceability:-Services provided 
+
+
+
